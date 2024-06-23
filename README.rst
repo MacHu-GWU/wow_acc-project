@@ -55,6 +55,19 @@ Welcome to ``wow_acc`` Documentation
 
 Data model for World of Warcraft account, realm and character.
 
+Usage example:
+
+.. code-block:: python
+
+    from wow_acc.api import (
+        Account,
+        Realm,
+        Character,
+        Dataset,
+    )
+
+    # your code here
+
 
 .. _install:
 

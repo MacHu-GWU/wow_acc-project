@@ -274,6 +274,11 @@ class Dataset(DataClass):
     ) -> str:
         """
         Generate python code that can be used to enumerate this dataset.
+
+        :param import_line: this line will be used to import the :class:`Dataset` object,
+            usually it is ``from .dataset import ds``
+        :param dataset_var_name: the variable name of the :class:`Dataset` object,
+            usually it is ``ds``.
         """
         lines = [
             "# -*- coding: utf-8 -*-",
