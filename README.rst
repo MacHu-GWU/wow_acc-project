@@ -50,7 +50,7 @@
 
 Welcome to ``wow_acc`` Documentation
 ==============================================================================
-.. image:: https://wow-acc.readthedocs.io/en/latest/_static/acore_server-logo.png
+.. image:: https://wow-acc.readthedocs.io/en/latest/_static/wow_acc-logo.png
     :target: https://wow-acc.readthedocs.io/en/latest/
 
 Data model for World of Warcraft account, realm and character.
