@@ -1,0 +1,14 @@
+acc1:
+  realm1:
+    - char111
+    - char112
+  realm2:
+    - char121
+    - char122
+acc2:
+  realm1:
+    - char211
+    - char212
+  realm2:
+    - char221
+    - char222
